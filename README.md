@@ -6,10 +6,10 @@ Atualmente estou estagiando na empresa Lead-Dell, em fortaleza como Analista de 
 
 ### Meus interesses:
 ▷ Programação;<br>
-▷ Ciência de Dados;
-▷ Desenvolvimento de Softwares - Web/Mobile (Front-End e Back-End);
-▷ Teste de Software;
-▷ Pesquisa;
+▷ Ciência de Dados;<br>
+▷ Desenvolvimento de Softwares - Web/Mobile (Front-End e Back-End);<br>
+▷ Teste de Software;<br>
+▷ Pesquisa;<br>
 Além de todas acima citadas, busco conhecer novas áreas para possíveis atuações.
 
 ### Minhas redes sociais:
