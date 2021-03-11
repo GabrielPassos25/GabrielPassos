@@ -9,7 +9,7 @@ Atualmente estou estagiando na empresa Lead-Dell, em fortaleza como Analista de 
 ▷ Ciência de Dados;<br>
 ▷ Desenvolvimento de Softwares - Web/Mobile (Front-End e Back-End);<br>
 ▷ Teste de Software;<br>
-▷ Pesquisa;<br>
+▷ Pesquisa;<br><br>
 Além de todas acima citadas, busco conhecer novas áreas para possíveis atuações.
 
 ### Minhas redes sociais:
