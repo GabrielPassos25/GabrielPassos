@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Bem vindo ao meu perfil! Meu nome é Gabriel Urano!
 
-Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Brasao4_vertical_cor_300dpi.png/200px-Brasao4_vertical_cor_300dpi.png" width="20px"> e estou no 4 semestre de muito desespero e conquistas.
+Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Brasao4_vertical_cor_300dpi.png/200px-Brasao4_vertical_cor_300dpi.png" width="50px"> e estou no 4 semestre de muito desespero e conquistas.
 
 Atualmente estou estagiando na empresa Lead-Dell, em fortaleza como Analista de Testes;
 
