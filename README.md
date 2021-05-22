@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) e estou no 5 semestre de muito desespero e conquistas.
 
-Atualmente estou estagiando na empresa Lead-Dell, em fortaleza, como Analista de Testes;
+Atualmente estou estagiando na empresa Lead-Dell, em fortaleza, como Analista de Testes. Estou migrado para a área de Desenvolvedor Python, na Lead-Dell;
 
 ### Meus interesses:
 ▷ Desewnvolvimento Mobile;<br>
