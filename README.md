@@ -5,7 +5,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 Atualmente estou estagiando na empresa Dell Lead, em fortaleza, como Analista de Testes, migrado para a área de Desenvolvedor Python;
 
 ### Meus interesses:
-▷ Desewnvolvimento Mobile;<br>
+▷ Desenvolvimento Mobile;<br>
 ▷ Ciência de Dados;<br>
 ▷ Desenvolvimento de Softwares - (Front-End e Back-End);<br>
 ▷ Teste de Software;<br>
