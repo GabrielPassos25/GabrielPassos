@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) e estou no 5 semestre de muito desespero e conquistas.
 
-Atualmente estou estagiando na empresa Dell Lead, em fortaleza, como Desenvolvedor Python;
+Atualmente estou estagiando na empresa Dell Lead, em fortaleza, como Desenvolvedor Python; Desde o início da pandemia estou aprofundando os conhecimentos em desenvolvimento mobile, utilizando react-native.
 
 ### Meus interesses:
 ▷ Desenvolvimento Mobile;<br>
