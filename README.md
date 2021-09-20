@@ -1,8 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Bem vindo(a) ao meu perfil! Meu nome é Gabriel Urano!
 
-Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) e estou no 5 semestre de muito desespero e conquistas.
+Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) e estou no 6 semestre.
 
-Atualmente estou estagiando na empresa Dell Lead, em fortaleza, como Desenvolvedor Python; Desde o início da pandemia estou aprofundando os conhecimentos em desenvolvimento mobile, utilizando react-native.
+Atualmente estou trabalhando como Desenvolvedor Mobile na empresa HandTalk e estagiando na empresa Dell Lead, em fortaleza, como Desenvolvedor Python;
 
 ### Meus interesses:
 ▷ Desenvolvimento Mobile;<br>
