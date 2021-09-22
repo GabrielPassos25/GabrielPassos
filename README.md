@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) e estou no 6 semestre.
 
-Atualmente estou trabalhando como Desenvolvedor Mobile na empresa HandTalk e estagiando na empresa Dell Lead, em fortaleza, como Desenvolvedor Python;
+Atualmente estou trabalhando como Desenvolvedor Mobile e Desenvolvedor Pyhton;
 
 ### Meus interesses:
 ▷ Desenvolvimento Mobile;<br>
