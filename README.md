@@ -7,8 +7,8 @@ Atualmente estou trabalhando como Desenvolvedor Front-End, web e mobile;
 ### Meus interesses:
 ▷ Desenvolvimento Mobile;<br>
 ▷ Desenvolvimento de Softwares - (Front-End e Back-End);<br>
-▷ Pesquisa na área de acessibilidade;<br><br>
-▷ Teste de Software;<br>
+▷ Pesquisa na área de acessibilidade;<br>
+▷ Teste de Software;<br><br>
 
 ### Minhas redes sociais:
 
