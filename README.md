@@ -1,8 +1,8 @@
 ### Bem vindo(a) ao meu perfil! Meu nome é Gabriel Urano!
 
-Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) e estou no 8 semestre.
+Formado em Ciência da Computação na Universidade Federal do Ceará (UFC).
 
-Atualmente estou trabalhando como Desenvolvedor Front-End, web e mobile;
+Atualmente estou trabalhando como Desenvolvedor FullStack, web e mobile;
 
 ### Meus interesses:
 ▷ Desenvolvimento Mobile;<br>
